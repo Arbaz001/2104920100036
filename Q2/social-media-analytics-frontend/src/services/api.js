@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://20.244.56.144/evaluation-service/users/1/posts'; // Replace with your backend URL
+const API_BASE_URL = 'http://localhost:3000'; // Replace with your backend URL
 
 export const getTopUsers = async () => {
   const response = await axios.get(`${API_BASE_URL}/api/users/top`);
