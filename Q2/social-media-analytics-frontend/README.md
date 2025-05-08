@@ -10,20 +10,4 @@ A modern React-based dashboard for tracking and analyzing social media engagemen
 - **Responsive UI** - Fully adaptive layout for all screen sizes
 - **Material Design** - Elegant interface following Material UI guidelines
 
-## 🛠 Tech Stack
 
-| Category       | Technology           |
-|----------------|----------------------|
-| Frontend       | React 18             |
-| UI Framework   | Material UI v5       |
-| State Management| React Context      |
-| Routing        | React Router v6      |
-| HTTP Client    | Axios                |
-| Build Tool     | Create React App     |
-
-## 🚀 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/social-media-analytics.git
-   cd social-media-analytics
